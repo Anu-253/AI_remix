@@ -85,7 +85,7 @@ cd AI_remix
 
 
 pip install -r requirements.txt
-3️⃣ Train the model (optional)
+3️⃣ Train the model 
 
 
 python model/train_mood_classifier.py
