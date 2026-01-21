@@ -82,19 +82,19 @@ The following audio features are extracted:
 git clone https://github.com/Anu-253/AI_remix.git
 cd AI_remix
 2️⃣ Install dependencies
-bash
+
 
 pip install -r requirements.txt
 3️⃣ Train the model (optional)
-bash
+
 
 python model/train_mood_classifier.py
 4️⃣ Ingest songs into database
-bash
+
 
 python ingest_songs.py
 5️⃣ Run the application
-bash
+
 
 streamlit run app/app1/app.py
 📈 Future Scope
